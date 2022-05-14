@@ -1,0 +1,27 @@
+node -v
+npm install -g typescript
+tsc -v
+npm install -g npm
+npm -v
+
+
+
+path 
+cd c:/users/admin
+
+mkdir angular
+cd angular
+npm install -g @angular/cli
+ng --version 
+
+
+create angular project
+
+ng new project.app
+
+cd  project.app
+
+ng serve
+
+
+localhost4200

@@ -1,3 +1,5 @@
+open cmd as administrator
+
 node -v
 npm install -g typescript
 tsc -v
@@ -25,3 +27,6 @@ ng serve
 
 
 localhost4200
+
+now go to c/users/admin/angular/src/app(open it with vscode )
+open app.compnent.html -->delete all html code and paste your registration code save and now refresh localhost4200
